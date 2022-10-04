@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-bookdown
+  - r-downlit
+  - r-tidyverse

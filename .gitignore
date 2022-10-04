@@ -1,0 +1,4 @@
+.snakemake/
+_book/
+_bookdown_files/
+protocols-private.rds
