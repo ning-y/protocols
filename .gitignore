@@ -2,3 +2,5 @@
 _book/
 _bookdown_files/
 protocols-private.rds
+render*.rds
+*.md
