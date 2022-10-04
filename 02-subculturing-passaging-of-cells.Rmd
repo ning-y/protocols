@@ -1,0 +1,81 @@
+# Subculturing/passaging of cells
+
+## Instruments
+
+- Biosafety cabinet
+- Water bath
+- Incubator
+- Microscope
+- Serological pipette and stripettes
+- Pipettes and pipette tips
+- Cell culture flasks and 15ml tubes
+
+## Materials
+
+- Cells, to be subcultured/passaged
+- Growth media, as appropriate for the cell line
+- Phosphate-buffered saline buffer
+- Trypsin solution and FBS
+- 70% ethanol
+
+## Steps
+
+1. Set-up the biosafety cabinet (BSC), and water bath to 37°C.
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_BSC`
+
+`r COMMON_RETRIEVE_WARNING_WATER_BATH`
+
+:::
+
+2. Remove cells from the incubator and check for signs of contamination.
+    - Signs of contamination include opaque media visible to the naked eye, or strange debris under the microscope
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_INCUBATOR`
+
+:::
+
+3. Decant the spent media.
+    - You may also choose to aspirate the spent media
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_CELL_CULTURE_WASTE`
+
+:::
+
+4. Wash with phosphate-buffered saline (PBS) buffer and decant.
+   Repeat the wash for a total of three times.
+   On the last iteration, aspirate rather than decant, in order to remove as much solution as possible.
+    - For T25 flasks, use 3ml of PBS; or 5ml for T75 flasks
+    - To avoid contamination, avoid placing the stripette tip into the flask opening, since the flask is already cultured
+    - As above, you may also choose to aspirate the spent media
+
+5. Add the trypsin solution, tighten the cell culture flask cap(s) and incubate for five minutes.
+    - For T25 flasks, use 1ml of trypsin; or 2ml for T75 flasks
+    - Incubate for no more than five minutes
+
+6. Using a microscope, check that cells are detached.
+    - Detached cells appear circular and mobile
+
+7. Add fresh medium containing fetal bovine serum (FBS) to arrest the trypsination process, and transfer into a 15ml tube. 
+   Mix by pipetting.
+    - For T25 flasks, use 1ml of media; or 2ml for T75
+    - FBS inhibits trypsin; otherwise a trypsin inhibitor is required
+
+8. Prepare new culture flask(s), pipetting 1ml short of the recommended volume of fresh media.
+    - The appropriate number of culture flasks will depend on the recommended subcultring ratio
+    - Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
+    - The recommended amount may vary across cell lines; for MDA-MB-231, for example, a T25 flasks should hold 5ml of fresh media while T75 flasks should hold 12ml of fresh media
+    - When pipetting, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which is detrimental to cell growth
+    - The reserved 1ml will be used to resuspend the cell pellet later
+
+9. Transfer the cells from 15ml tube to new culture flask(s).
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
