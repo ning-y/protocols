@@ -1,0 +1,56 @@
+# Protein quantification (BCA)
+
+This protocol largely follows the Pierce BCA protein assay kit, microplate variation, with 1:20 sample to working solution dilution ratio.
+
+## Instruments
+
+- Microplate
+- Microplate reader
+- Incubator
+- Pipette and pipette tips
+
+## Materials
+
+- RIPA buffer, complete
+- Protein samples
+
+## Steps
+
+1. Prepare the stocks in duplicate, using water diluent, according to the manufacturer's protocol.
+
+2. Prepare the blank in duplicate using complete RIPA buffer instead of water.
+
+3. Prepare the samples in duplicate, using RIPA buffer as diluent.
+    - Before pipetting, vortex and microcentrifuge the protein solution to mix evenly
+    - Keep the protein samples on ice to prevent degradation
+    
+4. Pipette the stocks, blanks, and samples into microplate wells; add an appropriate amount of working solution.
+    - To conserve pipette tips, you may consider first adding the working solution all at once
+    
+5. Wrap with foil and incubate at 37°C using the incubator, for 30 minutes.
+    - The manufacturer's protocol may ask that the solution be shaken while incubating, but it is okay to omit the shaking
+    
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_INCUBATOR`
+
+:::
+    
+6. Read the plate using a plate reader.
+    a. Use the plate reader on level 6, near the media preparation room
+    b. Switch on the plate reader via its power switch at the back of the machine
+    c. Log into the PC next to the plate reader, and open "Megallan V7.1 Tecam" via the start menu
+    d. When the software starts up, specify the device model but leave all other settings to auto-detect
+    e. Skip all registration prompts
+    f. Use the predefined "BCA 503" method, under the 503 folder
+    g. Insert the microplate with the lid removed
+    h. Ensure that shaking is an action within the predfined method
+    i. Start the plate reader
+    j. Remove the microplate once down, and take a photo of the results
+
+7. If there are still spare wells in the microplate, it can be reused.
+   - Keep the microplate in the cabinet at the bench assigned for protein work
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
