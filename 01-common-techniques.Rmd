@@ -1,0 +1,17 @@
+# Common techniques
+
+## Asceptic technique
+
+### Fundamentals
+
+- In bottles and tubes, avoid letting the liquid within the container come into contact with the cap even while the cap is on; this is easier if you always hold bottles by their caps
+
+### Biosafety cabinet
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_BSC`
+
+:::
+
+- Stripettes and pipette tips that have touched any part of any container containing any cell culture should never be reused.

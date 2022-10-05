@@ -18,7 +18,7 @@ COMMON_GET_GIT_COMMIT <- function()
 COMMON_RETRIEVE_WARNING_BSC <- stringr::str_c(
   "**Using the biosafety cabinet (BSC).** ",
   "To set-up the BSC, first warm up the fans by letting run for five minutes. ",
-  "Then, decontaminate all items and surfaces within the BSC with ethanol. ",
+  "Then, decontaminate all items and surfaces within the BSC with ethanol, going from left-to-right. ",
   "Finally, run the UV lamp for 15 minutes. ",
   "Before placing an item into the BSC, decontaminate with ethanol; this applies also to gloved hands. ",
   "At the end of the protocol, re-arrange all items in the BSC to their original positions, and decontaminate all items and surfaces with ethanol.")
