@@ -14,7 +14,7 @@
 ## Materials
 
 - Cells, to be subcultured/passaged
-- Growth media, as appropriate for the cell line
+- Growth media containing fetal bovine serum
 - Phosphate-buffered saline buffer
 - Trypsin solution and FBS
 - 70% ethanol
