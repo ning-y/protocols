@@ -1,0 +1,66 @@
+# Media change for mammalian cell culture
+
+## Instruments
+
+- Biosafety cabinet
+- Water bath
+- Incubator
+- Microscope
+- Serological pipette and stripettes
+- Pipettes and pipette tips
+    - Including extended 1ml pipette tips which can cover the length of the cell culture flask(s)
+
+## Materials
+
+- Cells, to be subcultured/passaged
+- Growth media containing fetal bovine serum
+- 70% ethanol
+
+## Steps
+
+1. Set-up the biosafety cabinet (BSC), and water bath to **37°C**.
+    - Warm the growth media
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_BSC`
+
+`r COMMON_RETRIEVE_WARNING_WATER_BATH`
+
+:::
+
+2. Remove cells from the incubator and check for signs of contamination.
+    - Signs of contamination include opaque media visible to the naked eye, or strange debris under the microscope
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_INCUBATOR`
+
+:::
+
+3. Decant the spent media.
+    - You may also choose to aspirate the spent media
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_CELL_CULTURE_WASTE`
+
+:::
+
+4. Pipette an appropriate volume of fresh media into the cell culture flask(s)
+    - When pipetting, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which is detrimental to cell growth
+
+| Cell culture flask size | Volume of fresh media to add |
+|-------------------------|------------------------------|
+| T25                     | 3ml – 5ml                    |
+| T75                     | 8ml – 15ml                   |
+
+5. Check that there is nothing suspicious going on, using a microscope.
+
+6. Place the cell culture flask(s) back inside the incubator.
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
+
+

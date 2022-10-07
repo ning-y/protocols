@@ -1,4 +1,4 @@
-# Subculturing/passaging of cells
+# Subculturing/passaging of mammalian cells
 
 ## Instruments
 
@@ -88,7 +88,7 @@
 | T25                     | 1ml                                   |
 | T75                     | 2ml                                   |
 
-9. Transfer the cells from the old to new culture flask(s).
+9. Transfer the cells from the old to new culture flask(s), and place inside the incubator.
 
 ## Notes
 
