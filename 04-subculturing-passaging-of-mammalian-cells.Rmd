@@ -21,7 +21,7 @@
 
 ## Steps
 
-1. Set-up the biosafety cabinet (BSC), and water bath to **37°C**.
+1. Set-up the biosafety cabinet (BSC), and warm the water bath to **37°C**.
     - Warm the growth media and phosphate-buffered saline (PBS) buffer
     - Trypsin can be administered cold (4°C) 
 
@@ -34,7 +34,6 @@
 :::
 
 2. Remove cells from the incubator and check for signs of contamination.
-    - Signs of contamination include opaque media visible to the naked eye, or strange debris under the microscope
 
 ::: {.rmdwarning}
 
@@ -43,7 +42,6 @@
 :::
 
 3. Decant the spent media.
-    - You may also choose to aspirate the spent media
 
 ::: {.rmdwarning}
 
@@ -51,49 +49,28 @@
 
 :::
 
-4. Using the serological pipette, wash with PBS and decant.
+4. Wash cells with **(3ml if T25 / 5ml if T75)** PBS and decant.
    Repeat the wash for a total of three times.
-   On the last iteration, aspirate rather than decant, in order to remove as much solution as possible.
-    - As above, you may also choose to aspirate the spent media
+   On the last wash, aspirate to remove as much liquid as possible.
 
-| Cell culture flask size | PBS volume per wash |
-|-------------------------|---------------------|
-| T25                     | 3ml                 |
-| T75                     | 5ml                 |
-
-5. Add the trypsin solution, tighten the cell culture flask cap(s) and incubate for five minutes and no longer.
+5. Add **(1ml if T25 / 2ml if T75)** of trypsin and incubate for up to five minutes.
     
-| Cell culture flask size | Volume of trypsin to add |
-|-------------------------|--------------------------|
-| T25                     | 1ml                      |
-| T75                     | 2ml                      |
+6. While the cells are incubating, pipette **(2ml–4ml if T25 / 6ml–13ml if T75)** of fresh media into new flask(s).
 
-6. While the cells are incubating, prepare new culture flask(s), pipetting the appropriate volume of fresh media.
-    - Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
-    - When pipetting, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which is detrimental to cell growth
+7. After incubation, check that cells are detached using a microscope.
 
-| Cell culture flask size | Volume of fresh media to add |
-|-------------------------|------------------------------|
-| T25                     | 2ml – 4ml                    |
-| T75                     | 6ml – 13ml                   |
-
-7. After the five minute incubation, check that cells are detached using a microscope.
-    - Detached cells appear circular and mobile
-
-8. Add fresh medium containing fetal bovine serum (FBS) into the cell culture flask(s) to arrest the trypsination process.
+8. Add **(1ml if T25 / 2ml if T75)** of fresh medium containing fetal bovine serum (FBS) into the cell culture flask(s).
    Mix and rinse the base of the cell culture flask by pipetting. 
-
-| Cell culture flask size | Volume of FBS-containing media to add |
-|-------------------------|---------------------------------------|
-| T25                     | 1ml                                   |
-| T75                     | 2ml                                   |
 
 9. Transfer the cells from the old to new culture flask(s), and place inside the incubator.
 
 ## Notes
 
+- Signs of contamination include opaque media visible to the naked eye, or strange debris under the microscope
+- Detached cells appear circular and mobile
+- Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
+- When pipetting fresh media, aspirate more than you intend to dispense to avoid the formation of air bubbles, which can be detrimental to cell growth
 - FBS-containing media arrests trypsination because FBS contains trypsin inhibitors
-- The recommended final media volume for T25 cell culture flasks is 3ml – 5ml, or 8ml – 15ml for T75 flasks
 
 ## Version
 
