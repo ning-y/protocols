@@ -1,0 +1,93 @@
+# Subculturing
+
+## Instruments
+
+- Biosafety cabinet
+- Water bath
+- Centrifuge (approx. 125 rcf, for 15ml centrifuge tubes)
+- Incubator (37°C, 5% CO~2~)
+- Microscope
+- Pipettes, etc.
+
+## Materials
+
+- Cells: LoVo, SW1116, HT-29, Caco-2, HCT 116, or MDA-MB-231
+- Growth media: DMEM high glucose (Sigma-Aldrich D5796-500ML) with 10% fetal bovine serum (FBS) for LoVo, SW1116, HT-29, Caco-2, HCT 116; or RPMI-1640 with 10% FBS for MDA-MB-231
+- Phosphate-buffered saline buffer
+- Trypsin solution
+- T25/T75 cell culture flasks
+- 15ml centrifuge tube
+- 70% ethanol, etc.
+
+## Steps
+
+1. Set-up the biosafety cabinet (BSC), water bath to **37°C**, and incubator to **37°C with 5% CO~2~**.
+    - Pre-warm the growth media, phosphate-buffered saline (PBS), and trypsin in the water bath
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_BSC`
+
+`r COMMON_RETRIEVE_WARNING_WATER_BATH`
+
+:::
+
+2. Remove cells from the incubator and check for signs of contamination.
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_INCUBATOR`
+
+:::
+
+3. Decant the spent media.
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_CELL_CULTURE_WASTE`
+
+:::
+
+4. Wash cells with **(3ml if T25 / 5ml if T75)** PBS and decant.
+   Repeat the wash for a total of three times.
+   On the last wash, aspirate to remove as much liquid as possible.
+
+5. Add **(1ml if T25 / 2ml if T75)** of trypsin and incubate for up to five minutes.
+    
+6. While the cells are incubating, pipette **(4ml if T25 / 10ml if T75)** of fresh media into new cell culture flask(s).
+
+7. After incubation, check that cells are detached using a microscope.
+
+::: {.rmdwarning}
+
+`r COMMON_RETRIEVE_WARNING_MICROSCOPE`
+
+:::
+
+8. Add **(1ml if T25 / 2ml if T75)** of fresh medium containing fetal bovine serum (FBS) into the cell culture flask(s).
+   Mix and rinse the base of the cell culture flask by pipetting.
+
+9. Transfer the cell suspension into a 15ml centrifuge tube.
+
+10. Centrifuge the suspended cells at **24°C and 130rcf for five minutes** to form a cell pellet.
+
+11. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
+
+12. Resuspend the cell pellet with **1ml – 2ml** of fresh pre-warmed growth media, and dispense into the new cell culture flask(s).
+    - Adjust the amount of fresh pre-warmed growth media to add, the number and size of new cell culture flasks, and amount of resuspended cells to dispense into each flask; to target a final confluency of about 20%
+
+13. Inspect the flask(s) under a microscope.
+
+14. Gently mix the culture flask(s) and place into the incubator.
+
+## Notes
+
+- When preparing the growth media, mix the FBS by pipetting to eliminate concentration gradients
+- When pipetting into cell culture flasks, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which may be detrimental to cell growth
+- Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
+- When mixing cells within a cell culture flask, use vertical up-down and left-right motions; circular motions may gather cells to the flask's center
+- FBS-containing media arrests trypsination because FBS contains trypsin inhibitors
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.

@@ -13,7 +13,7 @@
 
 - Cryopreserved cells: LoVo, SW1116, HT-29, Caco-2, or HCT 116
 - DMEM high glucose (Sigma-Aldrich D5796-500ML) with 10% fetal bovine serum
-- T25 cell culture flasks
+- T25/T75 cell culture flasks
 - 15ml centrifuge tube
 - 70% ethanol, etc.
 
@@ -43,7 +43,7 @@
 
 6. While the centrifuge is spinning, pipette **4ml** of fresh pre-warmed growth media into T25 cell culture flask(s).
 
-6. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
+7. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
 
 ::: {.rmdwarning}
 
@@ -51,9 +51,9 @@
 
 :::
 
-7. Resuspend the cell pellet with **1ml** of fresh pre-warmed growth media, and dispense into the cell culture flask(s).
+8. Resuspend the cell pellet with **1ml** of fresh pre-warmed growth media, and dispense into the cell culture flask(s).
 
-8. Inspect the flask(s) under a microscope.
+9. Inspect the flask(s) under a microscope.
 
 ::: {.rmdwarning}
 
@@ -61,7 +61,7 @@
 
 :::
 
-9. Gently mix the culture flask(s) and place into the incubator.
+10. Gently mix the culture flask(s) and place into the incubator.
 
 ## Notes
 
