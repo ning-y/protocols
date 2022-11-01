@@ -1,0 +1,49 @@
+# Protein extraction (RIPA)
+
+This protocol closely follows the *RIPA Lysis and Extraction Buffer* (ThermoFisher 89900) Product Information Sheet.
+
+## Instruments
+
+- Ice box
+- Cell scraper
+- Centrifuge (14 000 rcf, 4°C)
+- Pipettes, etc.
+
+## Materials
+
+- RIPA buffer (ThermoFisher 89900)
+- Protease & phosphatase inhibitor cocktail (100X) (ThermoFisher 78440)
+- 0.5 M EDTA Solution (100X) (ThermoFisher 78440)
+- Cells in cell culture flasks
+- PBS, cold (4°C)
+
+## Steps
+
+1. Pre-chill the centrifuge to 4°C.
+
+2. Prepare the complete RIPA buffer by adding 1 μL of 100X protease & phosphatase inhibitor cocktal and 1 μL of 100X 0.5 M EDTA per 100 μL of RIPA buffer.
+   Each flask requires **(150 μL if T25 / 500 μL if T75)** of complete RIPA buffer.
+   Leave the prepared complete RIPA buffer on ice.
+
+3. Decant away the media from cell culture flasks.
+
+4. Wash thrice with **(3 mL if T25 / 5 mL if T75)** cold PBS
+
+5. Add **(150 μL if T25 / 500 μL if T75)** of RIPA buffer into each flask.
+
+6. Keep the flasks on ice for 5 minutes, swirling occasionally to spread.
+
+7. Gather each flask's lysate into a bottom corner for collection into microcentrifuge tubes.
+
+8. Centrifuge at 14 000 rcf for 15 minutes at 4°C.
+
+9. Transfer the supernatant into a fresh microcentrifuge tube for storage.
+
+## Notes
+
+- For a more concentrated protein lysate solution, use less RIPA
+- The protein yield can supposedly be increased by sonication with 50% pulse for 30 seconds, but I've never tried it
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
