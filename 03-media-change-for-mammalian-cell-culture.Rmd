@@ -8,7 +8,6 @@
 - Microscope
 - Serological pipette and stripettes
 - Pipettes and pipette tips
-    - Including extended 1ml pipette tips which can cover the length of the cell culture flask(s)
 
 ## Materials
 
@@ -48,12 +47,12 @@
 :::
 
 4. Pipette an appropriate volume of fresh media into the cell culture flask(s)
-    - When pipetting, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which is detrimental to cell growth
+    - When pipetting, aspirate 1 mL more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which is detrimental to cell growth
 
 | Cell culture flask size | Volume of fresh media to add |
 |-------------------------|------------------------------|
-| T25                     | 3ml – 5ml                    |
-| T75                     | 8ml – 15ml                   |
+| T25                     | 3 mL – 5 mL                    |
+| T75                     | 8 mL – 15 mL                   |
 
 5. Check that there is nothing suspicious going on, using a microscope.
 

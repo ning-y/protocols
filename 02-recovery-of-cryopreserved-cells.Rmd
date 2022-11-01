@@ -4,7 +4,7 @@
 
 - Biosafety cabinet
 - Water bath
-- Centrifuge (approx. 125 rcf, for 15ml centrifuge tubes)
+- Centrifuge (130 rcf, for 15 mL centrifuge tubes)
 - Incubator (37°C, 5% CO~2~)
 - Microscope
 - Pipettes, etc.
@@ -14,7 +14,7 @@
 - Cryopreserved cells: LoVo, SW1116, HT-29, Caco-2, or HCT 116
 - DMEM high glucose (Sigma-Aldrich D5796-500ML) with 10% fetal bovine serum
 - T25/T75 cell culture flasks
-- 15ml centrifuge tube
+- 15 mL centrifuge tube
 - 70% ethanol, etc.
 
 ## Steps
@@ -35,13 +35,13 @@
 2. Retrieve the cryopreserved cells, at most two vials at a time. 
    Warm them in the water bath until only a small piece of ice remains, then transfer into the BSC.
 
-3. Quickly pipette cryopreserved cells, now completely thawed, into 15ml centrifuge tube(s).
+3. Quickly pipette cryopreserved cells, now completely thawed, into 15 mL centrifuge tube(s).
 
-4. Quickly pipette **1ml** of fresh pre-warmed growth media drop-by-drop into the centrifuge tube(s).
+4. Quickly pipette **1 mL** of fresh pre-warmed growth media drop-by-drop into the centrifuge tube(s).
 
-5. Centrifuge the resuspended cells at **24°C and 130rcf for five minutes** to form a cell pellet.
+5. Centrifuge the resuspended cells at **24°C and 130 rcf for five minutes** to form a cell pellet.
 
-6. While the centrifuge is spinning, pipette **4ml** of fresh pre-warmed growth media into T25 cell culture flask(s).
+6. While the centrifuge is spinning, pipette **4 mL** of fresh pre-warmed growth media into T25 cell culture flask(s).
 
 7. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
 
@@ -51,7 +51,7 @@
 
 :::
 
-8. Resuspend the cell pellet with **1ml** of fresh pre-warmed growth media, and dispense into the cell culture flask(s).
+8. Resuspend the cell pellet with **1 mL** of fresh pre-warmed growth media, and dispense into the cell culture flask(s).
 
 9. Inspect the flask(s) under a microscope.
 
@@ -66,7 +66,7 @@
 ## Notes
 
 - When preparing the growth media, mix the FBS by pipetting to eliminate concentration gradients
-- When pipetting into cell culture flasks, aspirate 1ml more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which may be detrimental to cell growth
+- When pipetting into cell culture flasks, aspirate 1 mL more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which may be detrimental to cell growth
 - Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
 - When mixing cells within a cell culture flask, use vertical up-down and left-right motions; circular motions may gather cells to the flask's center
 
