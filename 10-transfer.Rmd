@@ -30,10 +30,10 @@
 2. Cut two filter papers to size, using the sponge as guide.
    Soak the sponge and filter paper in cold transfer buffer.
 
-3. Assemble the bottom half of the transfer cassette: place one piece of sponge, then one piece of filter paper (Figure \ref(fig:biorad-M1703930-rev-k-section-2.1) with modifications).
+3. Assemble the bottom half of the transfer cassette: place one piece of sponge, then one piece of filter paper (Figure \@ref(fig:biorad-M1703930-rev-k-section-2-1) with modifications).
    Press firmly with a roller to remove air bubbles.
 
-```{r biorad-M1703930-rev-k-section-2.1, echo=FALSE, out.width='100%', fig.cap='Section 2.1 of Bio-Rad M1703930 Rev K.'}
+```{r biorad-M1703930-rev-k-section-2-1, echo=FALSE, out.width='100%', fig.cap='Section 2.1 of Bio-Rad M1703930 Rev K.'}
 knitr::include_graphics("media/biorad-M1703930-rev-k-section-2.1.png")
 ```
 
@@ -54,7 +54,7 @@ knitr::include_graphics("media/biorad-M1703930-rev-k-section-2.1.png")
    Close the transfer cassette.
 
 8. Place the transfer cassette into the electrode module, and then electrode module into the buffer tank.
-   Add an ice pack and stirrer also (Figure \ref(fig:biorad-M1703930-rev-k-section-2.1) with modifications).
+   Add an ice pack and stirrer also (Figure \@ref(fig:biorad-M1703930-rev-k-section-2-1) with modifications).
    Top up with transfer buffer until the top ridge (not the top edge) of the buffer tank.
 
 9. Move the buffer tank into the 4°C cold room.
