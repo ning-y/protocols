@@ -47,3 +47,7 @@ COMMON_RETRIEVE_WARNING_THERMOMIXER <- stringr::str_c(
   "**Using the thermomixer.** ",
   "If heating a solution at high temperatures, weigh the plastic cover of the thermomixer down to avoid the caps from popping off. ",
   "Let the thermomixer cool to room temperature before turning it off.")
+
+COMMON_RETRIEVE_WARNING_METHANOL <- stringr::str_c(
+  "**Disposal of methanol.** ",
+  "Methanol and methanol-containing solutions such as the transfer buffer must be disposed as chemical waste.")
