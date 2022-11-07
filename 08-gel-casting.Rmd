@@ -2,7 +2,7 @@
 
 ## Instruments
 
-- Gel casting mold
+- Glass cassette, casting frame, and casting stand
 - Pipettes, etc.
 
 ## Materials
@@ -17,11 +17,12 @@
 
 ## Steps
 
-1. Gently wash and dry the gel casting mold with tap water, then 70% ethanol.
+1. Gently wash and dry the glass cassette with tap water, then 70% ethanol.
 
-2. Assemble the gel casting mold as in Figure \@ref(fig:biorad-10007296-rev-d-figure-3).
+2. Assemble the glass cassette as in Figure \@ref(fig:biorad-10007296-rev-d-figure-3).
     1. Place the casting frame on a flat surface
-    2. Insert the glass slide and spacer, with spacer facing away from the locking mechanisms, such that the bottom edges of the glass slides and spacer are in level contact with the flat surface which the casting frame is sitting upon (Figure \@ref(fig:biorad-10007296-rev-d-figure-3).3b)
+    2. Insert the glass slide and spacer of the glass cassette, with spacer facing away from the locking mechanisms.
+       Ensure that the bottom edges of the glass slides and spacer are in level contact with the flat surface which the casting frame is sitting upon (Figure \@ref(fig:biorad-10007296-rev-d-figure-3).3b)
     3. Lock the casting frame
     4. Place a piece of grey rectangular foam into its slot in the casting stand
     5. Secure the casting frame into the casting stand such that it rests on the grey rectangular foam (Figure \@ref(fig:biorad-10007296-rev-d-figure-3).3d)
@@ -80,7 +81,7 @@ knitr::kable(tibble::tribble(
 11. Wait about 30 minutes for the stacking gel to set.
    The remaining stacking gel solution which was not transferred into the assembled casting frame can be used as reference.
 
-12. The whole assembled casting frame can be used immediately for electrophoresis, or kept in a 4°C fridge for about a week.
+12. The glass cassette can be removed and used immediately for electrophoresis, or kept in a 4°C fridge for about a week.
     If keeping, wrap in diH~2~O-wetted paper towels and keep in a zip lock bag. 
 
 ## Version

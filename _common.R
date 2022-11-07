@@ -42,3 +42,8 @@ COMMON_RETRIEVE_WARNING_CELL_CULTURE_WASTE <- stringr::str_c(
 COMMON_RETRIEVE_WARNING_MICROSCOPE <- stringr::str_c(
   "**Using the microscope.** ",
   "Remember to power down the microscope and cover with tarp to aid in the longevity of the instrument")
+
+COMMON_RETRIEVE_WARNING_THERMOMIXER <- stringr::str_c(
+  "**Using the thermomixer.** ",
+  "If heating a solution at high temperatures, weigh the plastic cover of the thermomixer down to avoid the caps from popping off. ",
+  "Let the thermomixer cool to room temperature before turning it off.")
