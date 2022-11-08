@@ -1,0 +1,78 @@
+# Western blot, incubation and imaging
+
+## Instruments
+
+- Forceps
+- Rocker
+- Pipettes, etc.
+
+## Materials
+
+- PVDF membrane
+- TBST
+- Primary, secondary, and pre-conjugated anti-GADPH antibodies
+- 5% skimmed milk
+- 50 mL centrifuge tube
+
+## Steps
+
+1. Wash the membrane thrice with TBST.
+
+::: {.rmdnote}
+
+`r COMMON_RETRIEVE_NOTE_WESTERN_BLOT_WASH`
+
+:::
+
+2. Prepare the primary antibody in 10 mL of 5% skimmed milk, in a 50 mL centrifuge tube.
+
+3. Carefully insert the membrane into the 50 mL centrifuge tube of primary antibody–milk solution, letting the back rather than front of the membrane contact the walls of the tube.
+
+4. Incubate overnight in a 4°C cold room on a roller.
+
+5. Remove the membrane from 50 mL centrifuge tube into a tray, and wash the membrane thrice with TBST.
+   - The primary antibody–milk solution can be stored at -20°C to be reused.
+
+6. Prepare the secondary antibody in 20 mL of 5% skimmed milk.
+
+7. Incubate the membrane, now in the tray, in the secondary antibody–milk solution for 1 hour at room temperature, at 1 rpm on the rocker.
+
+8. Wash the membrane thrice with TBST.
+
+9. Prepare a transport tray with
+   1. 1 mL pipette and tips,
+   2. Chemiluminiscence reagents,
+   3. USB-A compatible thumbdrive,
+   4. Forceps, and
+   5. Holding tray to hold membrane and chemiluminiscence reagents.
+   Bring these equipment and the washed membrane to a Chemdoc imaging system.
+   
+10. Mix the chemiluminiscence reagents in the second holding tray.
+
+11. Transfer the membrane, letting the TBST drain as much as possible, into the second holding tray with chemiluminiscence reagents.
+
+12. Pipette the chemiluminiscence reagents over the top of membrane so that it soaks the membrane evenly.
+    Repeat for a minute.
+
+13. Image the membrane in colorimetric mode for the ladders (start with 1 second, then optimize).
+
+14. Image the membrane in chemiluminiscence mode for the protein bands (start with 5 seconds, then optimize).
+
+15. Download the images into the thumbdrive.
+
+16. Wash the membrane thrice with TBST.
+
+17. Strip the antibodies from membrane using a stripping buffer.
+    Follow the instructions on the bottle.
+
+18. Prepare the HRP-conjugated GAPDH antibody in 10 mL of 5% skimmed milk, in a 50 mL centrifuge tube.
+    Repeat steps 2–5.
+    - The conjugated anti-GAPDH–milk solution can also be stored at -20°C to be reused.
+
+19. Image GAPDH bands by repeating steps 9–17.
+
+20. The membrane can be stored in TBST, in a sealed laminated sheet, at -20°C.
+
+## Version
+
+This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
