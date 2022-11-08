@@ -15,6 +15,9 @@ COMMON_GET_GIT_COMMIT <- function()
       identical(system2("git", c("status", "--porcelain"), stdout=TRUE), character(0)),
       "", "-dirty"))
 
+COMMON_RETRIEVE_NOTE_WESTERN_BLOT_WASH <- stringr::str_c(
+  "**Washing.** To wash, submerge the PVDF membrane in the wash solution and let rock at 3 rpm for 5 minutes.")
+
 COMMON_RETRIEVE_WARNING_BSC <- stringr::str_c(
   "**Using the biosafety cabinet (BSC).** ",
   "To set-up the BSC, first warm up the fans by letting run for five minutes. ",

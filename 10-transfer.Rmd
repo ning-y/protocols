@@ -6,6 +6,7 @@
 - Forceps
 - Roller
 - Stir bar and stir plate
+- Rocker
 - Pipettes, etc.
 
 ## Materials
@@ -14,7 +15,9 @@
 - PVDF membrane, sponge, and filter paper
 - Pre-chilled transfer buffer
 - Ice pack
+- TBST
 - Ponceau S
+- 5% skimmed milk
 
 ## Steps
 
@@ -60,10 +63,18 @@ knitr::include_graphics("media/biorad-M1703930-rev-k-section-2.1.png")
 9. Move the buffer tank into the 4°C cold room.
    Set the stir plate on high, and run at 100 V and 350 mA for 1 hour.
 
-10. Remove the PVDF membrane and stain with Ponceau S to confirm the transfer.
+10. Remove the PVDF membrane and wash thrice with TBST.
+
+::: {.rmdnote}
+
+`r COMMON_RETRIEVE_NOTE_WESTERN_BLOT_WASH`
+
+:::
+
+11. Stain with Ponceau S to confirm the transfer, then wash thrice with TBST.
+
+12. Incubate the PVDF membrane with 5% skimmed milk for 1 hour at room temperature, at 1 rpm on the rocker.
 
 ## Version
 
 This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
-
-
