@@ -1,6 +1,6 @@
 # Protein extraction (RIPA)
 
-This protocol closely follows the *RIPA Lysis and Extraction Buffer* (ThermoFisher 89900) Product Information Sheet.
+This protocol is adapted from the *RIPA Lysis and Extraction Buffer* (ThermoFisher #89900) Product Information Sheet.
 
 ## Instruments
 
@@ -11,9 +11,9 @@ This protocol closely follows the *RIPA Lysis and Extraction Buffer* (ThermoFish
 
 ## Materials
 
-- RIPA buffer (ThermoFisher 89900)
-- Protease & phosphatase inhibitor cocktail (100X) (ThermoFisher 78440)
-- 0.5 M EDTA Solution (100X) (ThermoFisher 78440)
+- RIPA buffer (ThermoFisher #89900)
+- Protease & phosphatase inhibitor cocktail (100X) (ThermoFisher #78440)
+- 0.5 M EDTA Solution (100X) (ThermoFisher #78440)
 - Cells in cell culture flasks
 - PBS, cold (4°C)
 
