@@ -11,9 +11,9 @@
 
 ## Materials
 
-- Cryopreserved cells: LoVo, SW1116, HT-29, Caco-2, or HCT 116
-- DMEM high glucose (Sigma-Aldrich D5796-500ML) with 10% fetal bovine serum
-- T25/T75 cell culture flasks
+- Cryopreserved cells
+- Complete media
+- 6-well plates; T25, or T75 cell culture flasks
 - 15 mL centrifuge tube
 - 70% ethanol, etc.
 
@@ -32,16 +32,14 @@
 
 :::
 
-2. Retrieve the cryopreserved cells, at most two vials at a time. 
+3. Pipette 9 mL of warmed complete growth media into the 15 mL centrifuge tube(s).
+
+4. Retrieve the cryopreserved cells, at most two vials at a time. 
    Warm them in the water bath until only a small piece of ice remains, then transfer into the BSC.
 
-3. Quickly pipette cryopreserved cells, now completely thawed, into 15 mL centrifuge tube(s).
+5. Quickly pipette cryopreserved cells, now completely thawed, into 15 mL centrifuge tube(s) containing warmed complete growth media.
 
-4. Quickly pipette **1 mL** of fresh pre-warmed growth media drop-by-drop into the centrifuge tube(s).
-
-5. Centrifuge the resuspended cells at **24°C and 130 rcf for five minutes** to form a cell pellet.
-
-6. While the centrifuge is spinning, pipette **4 mL** of fresh pre-warmed growth media into T25 cell culture flask(s).
+6. Centrifuge the cells at **24°C and 130 rcf for five minutes** to form a cell pellet.
 
 7. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
 
@@ -51,7 +49,7 @@
 
 :::
 
-8. Resuspend the cell pellet with **1 mL** of fresh pre-warmed growth media, and dispense into the cell culture flask(s).
+8. Resuspend the cell pellet with fresh pre-warmed growth media, and dispense into the 6-well plate or cell culture flask(s).
 
 9. Inspect the flask(s) under a microscope.
 
