@@ -3,5 +3,5 @@
 To render,
 
 ``` bash
-snakemake --use-conda -c 1 .
+snakemake --use-conda -c 1
 ```

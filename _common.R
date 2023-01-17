@@ -18,6 +18,11 @@ COMMON_GET_GIT_COMMIT <- function()
 COMMON_RETRIEVE_NOTE_WESTERN_BLOT_WASH <- stringr::str_c(
   "**Washing.** To wash, submerge the PVDF membrane in the wash solution and let rock at 3 rpm for 5 minutes.")
 
+COMMON_RETRIEVE_NOTE_RESUSPENSION <- stringr::str_c(
+  "**Resuspending the cell pellet.** Some cell pellets are stubborn, and cannot be fully resuspended. ",
+  "In these cases, you might consider letting the remaining cell pellet settle to the bottom of the microcentrifuge tube, and aspirating only the supernatant cell suspension to the recipient flask or well. ",
+  "If the cells are precious, then the cell pellet can be placed into its own additional flask or well. ")
+
 COMMON_RETRIEVE_WARNING_BSC <- stringr::str_c(
   "**Using the biosafety cabinet (BSC).** ",
   "To set-up the BSC, first warm up the fans by letting run for five minutes. ",
