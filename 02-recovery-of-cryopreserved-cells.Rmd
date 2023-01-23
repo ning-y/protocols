@@ -72,7 +72,7 @@
 ## Notes
 
 - Some growth media or growth media components tend to settle in a concentration gradient when left undisturbed; for these liquids, mix by pipetting to eliminate concentration gradients
-- When pipetting into cell culture flasks, aspirate 1 mL more than you intend to dispense; this avoids the formation of air bubbles in the culture flask, which may be detrimental to cell growth
+- Avoid introducing air bubbles into growth media, in case they interfere with cell growth
 - Cell culture flask(s) should be labelled with the name of the cell line, passage number, your name, and the current date
 - When mixing cells within a cell culture flask, use vertical up-down and left-right motions; circular motions may gather cells to the flask's center
 

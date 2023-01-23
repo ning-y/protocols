@@ -59,3 +59,8 @@ COMMON_RETRIEVE_WARNING_THERMOMIXER <- stringr::str_c(
 COMMON_RETRIEVE_WARNING_METHANOL <- stringr::str_c(
   "**Disposal of methanol.** ",
   "Methanol and methanol-containing solutions such as the transfer buffer must be disposed as chemical waste.")
+
+COMMON_RETRIEVE_WARNING_TRYPSIN_STORAGE <- stringr::str_c(
+  "**Minimize the time trypsin spends outside of the fridge.** ",
+  "To avoid the degradation of trypsin, possibly due to self-digestion; aliquot a small amount of trypsin for use in the BSC, and minimize the amount of time that aliquot spends outside the fridge. ",
+  "Generally, cells can handle the addition of 4°C trypsin.")
