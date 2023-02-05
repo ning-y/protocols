@@ -12,80 +12,41 @@
 
 ## Materials
 
-- Cells: LoVo, SW1116, HT-29, Caco-2, or HCT 116
-- Freezing media: DMEM high glucose (Sigma-Aldrich D5796-500ML) with 10% fetal bovine serum (FBS) and 10% DMSO
-- Phosphate-buffered saline buffer
+- Cells
+- Complete growth media
+- Freezing media
+- Phosphate-buffered saline buffer (PBS)
 - Trypsin solution
-- 15 mL centrifuge tube
-- Cryotubes
+- 15 mL centrifuge tube(s)
+- Cryotube(s)
 - 70% ethanol, etc.
 
 ## Steps
 
-1. Set-up the biosafety cabinet (BSC) and water bath to **37°C**.
-    - Pre-warm the growth media, phosphate-buffered saline (PBS), and trypsin in the water bath
-    
-::: {.rmdwarning}
+1. Follow the subculturing protocol up to and including the addition of complete media.
 
-`r COMMON_RETRIEVE_WARNING_BSC`
+2. Transfer the cell suspension into a 15 mL centrifuge tube.
 
-`r COMMON_RETRIEVE_WARNING_WATER_BATH`
+3. Centrifuge the suspended cells at **24°C and approximately 125 rcf for five minutes** to form a cell pellet.
 
-:::
+4. After centrifugation, aspirate and discard the supernatant.
 
-2. Remove cells from the incubator and check for signs of contamination.
+5. Resuspend the cell pellet with pre-warmed freezing media.
+    - Gently pipette the cell pellet(s) and suspension(s) using a 1 mL pipette and pipette tip to encourage dissociation.
+   Try pipetting 10 to 30 times.
+   Aspirate and dispense slowly; and keep the pipette tip away from the tube walls to avoid shearing the celsl.
 
-::: {.rmdwarning}
+6. Dispense 1 mL of resuspended cells into each pre-labelled cryotube
 
-`r COMMON_RETRIEVE_WARNING_INCUBATOR`
+7. Place the cryotubes into a cell freezing container and place in a -80°C freezer.
+    - A cell freezing container holds cryotubes such that each tube is cooled by 1°C per minute in a -80° freezer.
 
-:::
-
-3. Decant the spent media.
-
-::: {.rmdwarning}
-
-`r COMMON_RETRIEVE_WARNING_CELL_CULTURE_WASTE`
-
-:::
-
-4. Wash cells with **(3 mL if T25 / 5 mL if T75)** PBS and decant.
-   Repeat the wash for a total of three times.
-   On the last wash, aspirate to remove as much liquid as possible.
-
-5. Add **(1 mL if T25 / 2 mL if T75)** of trypsin and incubate for up to five minutes.
-
-6. After incubation, check that cells are detached using a microscope.
-
-::: {.rmdwarning}
-
-`r COMMON_RETRIEVE_WARNING_MICROSCOPE`
-
-:::
-
-7. Add **(1 mL if T25 / 2 mL if T75)** of fresh medium containing fetal bovine serum (FBS) into the cell culture flask(s).
-   Mix and rinse the base of the cell culture flask by pipetting.
-
-8. Transfer the cell suspension into a 15 mL centrifuge tube.
-
-9. Centrifuge the suspended cells at **24°C and 130 rcf for five minutes** to form a cell pellet.
-
-10. Once the centrifuge is done, dispose of the supernatant by aspirating with a pipette.
-
-11. Resuspend the cell pellet with pre-warmed freezing media.
-    - Adjust the amount of pre-warmed freezing media to add so that each cryotube containing 1 mL of resuspended cells can seed a T25 flask with appropriate confluency
-
-12. Dispense 1 mL of resuspended cells into each pre-labelled cryotube
-
-13. Place the cryotubes into a cell freezing container and place in a -80°C freezer.
-    - A cell freezing container holds cryotubes such that each tube is cooled by 1°C per minute in a -80°freezer C
-
-14. After cooling overnight, the cryotubes can be removed from the cell freezing container and placed into their final storage location.
+8. After cooling overnight, the cryotubes can be removed from the cell freezing container and placed into their final storage location.
     
 ## Notes
 
-- When preparing the growth media, mix the FBS by pipetting to eliminate concentration gradients
-- Cryotube(s) should be labelled with the name of the cell line, passage number, your name, and the current date
+- Some growth media or growth media components tend to settle in a concentration gradient when left undisturbed; for these liquids, mix by pipetting to eliminate concentration gradients
+- Cryotubes should be labelled with the name of the cell line, passage number, your name, and the current date
 - FBS-containing media arrests trypsination because FBS contains trypsin inhibitors
 
 ## Version

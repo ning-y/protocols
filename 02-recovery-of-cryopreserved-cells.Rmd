@@ -4,7 +4,7 @@
 
 - Biosafety cabinet
 - Water bath
-- Centrifuge (130 rcf, for 15 mL centrifuge tubes)
+- Centrifuge (approx. 125 rcf, for 15 mL centrifuge tubes)
 - Incubator (37°C, 5% CO~2~)
 - Microscope
 - Pipettes, etc.

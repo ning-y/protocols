@@ -11,7 +11,7 @@
 ## Materials
 
 - Cells
-- Compete growth media
+- Complete growth media
 - Phosphate-buffered saline buffer (PBS)
 - Trypsin solution
 - Cell culture flasks or wells
@@ -20,7 +20,7 @@
 ## Steps
 
 1. Set-up the biosafety cabinet (BSC), water bath to **37°C**, and incubator to **37°C with 5% CO~2~**.
-    - Pre-warm the complete growth media and (PBS) in the water bath
+    - Pre-warm the complete growth media and PBS in the water bath
 
 ::: {.rmdwarning}
 
@@ -67,7 +67,9 @@
 :::
 
 7. Add fresh medium containing fetal bovine serum (FBS) into the cell culture flask(s) or well(s) containing the trypsinized cell suspension.
-   If cells in the cell suspension(s) are not dissociated into single cells, gently pipette the cell suspension(s) for about 10 times to encourage dissociation. 
+   - Gently pipette the cell pellet(s) and suspension(s) using a 1 mL pipette and pipette tip to encourage dissociation.
+   Try pipetting 10 to 30 times.
+   Aspirate and dispense slowly; and keep the pipette tip away from the tube walls to avoid shearing the celsl.
 
 8. Transfer the cell suspension(s) into new appropriately sized cell culture flask(s) or well(s).
   Top up an appropriate amount of complete growth media, if necessary.
