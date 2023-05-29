@@ -73,6 +73,10 @@
 
 20. The membrane can be stored in TBST, in a sealed laminated sheet, at -20°C.
 
+## Notes
+
+- If bright speckles appear on the image, try spinning down the secondary antibody to remove aggregates before use [@denans23secondary-ab]
+
 ## Version
 
 This is version ``r COMMON_GET_GIT_COMMIT()``, rendered on `r Sys.Date()`.
